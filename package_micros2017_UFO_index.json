@@ -1,5 +1,6 @@
 {
   "packages":[
+    {
     "name": "UFO",
      "maintainer": "Micros 2017",
      "websiteURL":"https://github.com/Naneuq/UFO",
@@ -7,5 +8,6 @@
 
     "platforms": [],
      "tools": []
+   }
       ]
 }
