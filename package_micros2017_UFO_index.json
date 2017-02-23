@@ -1,13 +1,22 @@
 {
-  "packages":[
+  "packages": [
     {
-    "name": "UFO",
-     "maintainer": "Micros 2017",
-     "websiteURL":"https://github.com/Naneuq/UFO",
-    "email": "hebermudezb@uqvirtual.edu.co",
-
-    "platforms": [],
-     "tools": []
-   }
- ]
+      "name": "UFO",
+      "maintainer": "Micros 2017",
+      "websiteURL": "https://github.com/Naneuq/UFO",
+      "email": "hebermudezb@uqvirtual.edu.co",
+      "platforms": [
+        {
+          "name": "UFO",
+          "architecture": "avr",
+          "version": "0.1.0",
+          "category": "Contributed",
+          "boards": [
+            {"name": "UFO"}
+          ]
+        }
+      ],
+      "tools":[]
+    }
+  ]
 }
