@@ -11,6 +11,10 @@
           "architecture": "avr",
           "version": "0.1.0",
           "category": "Contributed",
+          "url":"https://github.com/Naneuq/UFO/archive/v0.1.0.zip",
+          "archiveFileName":"tarjeta-0.1.0.zip",
+          "checksum":"SHA-256:0fd8f650e47b2ee9bfadb16f61d6587468ef210b309bb441bc512b6708066837",
+          "size":"191548",
           "boards": [
             {"name": "UFO"}
           ]
